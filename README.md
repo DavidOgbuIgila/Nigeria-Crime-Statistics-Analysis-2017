@@ -150,7 +150,7 @@ The following enhancements are planned to extend the analytical depth and impact
 
 ## Author
 
-**Your Name**
+**David Ogbu Igila**
 *Data Analyst · Power BI Developer · Business Intelligence Specialist*
 
 Open to opportunities in data analytics, business intelligence, and data-driven product roles.
